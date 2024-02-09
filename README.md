@@ -5,7 +5,7 @@ This project involves the modeling and verification of an Automotive Wiper Syste
 
 # Project Components
 ## 1. System Model
-![Simulink Model Overview](ModelOverview.png)
+![Simulink Model Overview](Model.png)
 - The system model is developed using Simulink, a powerful simulation tool. The model encompasses the wiper system control logic.
 
 ## 2. Design Requirements
